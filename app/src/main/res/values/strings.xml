@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">LabbisV5</string>
+    <string name="title_home">Hjem</string>
+    <string name="title_map">Kart</string>
+    <string name="title_add">Legg til</string>
+    <string name="list_view_title">Tittel</string>
+    <string name="list_view_desc">Beskrivelse...</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_view_img_content_desc">Images of pets</string>
+    <string name="tv_name">Navn</string>
+    <string name="tv_age">Alder</string>
+    <string name="tv_animal_type">Type dyr</string>
+    <string name="tv_animal_rase">Rase</string>
+    <string name="tv_food_type">Fôrtype</string>
+    <string name="tv_food_pr_day">Gr. fôr pr dag</string>
+    <string name="tv_food_left_notification_day">Varsles ved ant. dager igjen med mat</string>
+    <string name="tv_food_left">Totalt med fôr igjen i gram</string>
+    <string name="tv_days_left_of_food">Totalt dager igjen med fôr</string>
+    <string name="tv_name_value">Fido</string>
+    <string name="tv_age_value">XX år</string>
+    <string name="tv_animal_type_value">Hund</string>
+    <string name="tv_animal_rase_value">Labrador Retriever</string>
+    <string name="tv_food_type_value">Royal Canin</string>
+    <string name="tv_food_pr_day_value">XXg[ant dager]</string>
+    <string name="tv_food_left_notification_day_value">XX[ant dager]</string>
+    <string name="tv_food_left_value">Totalt med fôr igjen: XX g[ant gram]</string>
+    <string name="tv_days_left_of_food_value">XX[ant dager]</string>
+    <string name="et_hint_name">Fido...</string>
+    <string name="et_hint_age">3 år..</string>
+    <string name="et_hint_type">Hund..</string>
+    <string name="et_hint_rase">Jack russel terrier...</string>
+    <string name="et_hint_food_type">Royal Canine...</string>
+    <string name="et_hint_food_per_day">300g...</string>
+    <string name="et_hint_food_left_notification">5...</string>
+    <string name="et_hint_food_left">5000g...</string>
+    <string name="et_hint_food_left_days">10...</string>
+    <string name="add_pet_btn">Legg til kjæledyr</string>
+</resources>

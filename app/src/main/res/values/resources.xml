@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ex_descriptions_dory">
+        <item name="ex_name">Doris</item>
+        <item name="ex_age">3</item>
+        <item name="ex_type">Fisk</item>
+        <item name="ex_rase">Paracanthurus hepatus</item>
+        <item name="ex_food_type">Alger og plankton</item>
+        <item name="ex_food_per_day">100 g</item>
+        <item name="ex_food_left_notification_day">600g</item>
+        <item name="ex_food_left_total">1000g</item>
+        <item name="ex_days_left_of_food">10</item>
+    </string-array>
+</resources>
+
