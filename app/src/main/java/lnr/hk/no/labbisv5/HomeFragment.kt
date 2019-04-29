@@ -20,15 +20,16 @@ class HomeFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
 
-        val listView: ListView = view.findViewById(R.id.homeListView)
+        /*val listView: ListView = view.findViewById(R.id.homeListView)
         val list = mutableListOf<Model>()
 
 
-        listView.adapter = MyListAdapter(this@HomeFragment, R.layout.row, list)
-
+        listView.adapter = MyListAdapter(this.context, R.layout.row, list)
+*/
         return view
     }
 
+    //activity.context
 
     companion object {
         fun newInstance(): HomeFragment = HomeFragment()
